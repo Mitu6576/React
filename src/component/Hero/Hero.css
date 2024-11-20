@@ -1,0 +1,51 @@
+.hero{
+display: flex;
+justify-content: space-between;
+padding-left: 80px;
+}
+.hero_left {
+    margin-top:150px ;
+    text-align: justify;
+}
+.hero_left p{
+    font-size: 16px;
+    color: #96BB7C;
+    margin-bottom: 20px;
+
+}
+.hero_left h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 58px;
+    font-family: 700;
+    margin-bottom: 20px;
+}
+.hero_left h3{
+    color: #737373;
+    font-size: 20px;
+    font-weight:400px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    margin-bottom: 20px;
+
+}
+.button2{
+padding: 15px 40px 15px 40px;
+gap: 10px;
+border-radius: 5px 0px 0px 0px;
+background-color:  #96BB7C;
+color:white;
+}
+.button3{
+padding: 15px 40px 15px 40px;
+gap: 10px;
+border-radius: 5px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #96BB7C;
+color: #96BB7C;
+margin-left:20px;
+
+
+}
+

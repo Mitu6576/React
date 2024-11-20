@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1000px;
+    margin: 0 auto;
+
+}
+
+.nav h1 {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+.nav .menu ul{
+    display: flex;
+    gap:21px;
+}
+.nav .menu ul li{
+    list-style: none;
+}
+.nav .menu ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    color:black;
+    font-family: Monserrat;
+}
+.nav h3{
+    color: #96BB7C;
+    font-family: Monserra;
+    font-size: 14px;
+    margin-left: 150px;
+
+}
+.button1 button{
+    color:white;
+    background-color: #96BB7C;
+padding: 15px 25px 15px 25px;
+gap: 15px;
+border-radius: 5px 0px 0px 0px;
+
+}
